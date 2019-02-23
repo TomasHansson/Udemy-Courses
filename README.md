@@ -2,41 +2,65 @@
 Documentation about the various courses I've taken on Udemy and the main things I've learned from them.
 
 Complete C# Masterclass
--
+- Syntax of the C# language.
+- Basics of Object-oriented programming.
+- Basic funtions and libraries from .NET.
+- Syntax for regular expressions.
+- Basics of WPF (Windows Presentation Foundation).
+- Basics of settings up an SQL database and using LINQ to query it.
+- Basics of Unity.
 
 C# Basics for Beginners: Learn C# Fundamentals by Coding
--
+- Better understanding of the .NET Framework.
 
 C# Intermediate: Classes, Interfaces and OOP
--
+- Better understanding of inheritance and polymorhism.
+- What interfaces are and how they may be used.
 
 C# Advanced Topics: Prepare for Technical Interviews
--
+- Basics of Generics.
+- Basics of Lambda expressions.
+- Better understanding of how to use LINQ.
+- Basics of delegates and events.
 
 Master the Coding Interview: Data Structures + Algorithms
--
+- What Big O Notation is and how it is used to determine an algorithms performance.
+- Better understanding of the basic data structures; Trees in particular.
+- Better understanding of basic search and sort algorithms.
 
 C# Developers: Learn the Art of Writing Clean Code
--
+- How to refactor my code to make it more readable.
+- Better understanding of the DRY (Don't Repeat Yourself) and SOC (Seperation of Concerns) principles.
+- How to simplify conditional statements.
 
 The Web Developer Bootcamp
--
+- Basic syntax of HTML, CSS and JavaScript.
+- Basics of Bootstrap 4.
+- What the DOM (Document Object Model) is and how it may be manipulated.
+- Basics of NodeJS, ExpressJS and MongoDB.
+- Basics of CRUD-operations following the RESTful conventions.
+- Understanding what a package manager is and how to use it; In this case, NPM.
 
 Entity Framework in Depth: The Complete Guide
--
+- Basics of Entity Framework.
+- Difference between Code-First and Database-First workflows.
+- Further improved understanding of how to use LINQ to query data.
+- Basics of the Repository pattern.
 
 The Complete ASP.NET MVC 5 Course
--
+- Basics of ASP.NET.
+- How to use ASP.NET and Entity Framework to setup a RESTful Web API.
 
 Understanding TypeScript
--
+- Basics of TypeScript.
 
 Angular Essentials (Angular 2+ with TypeScript)
--
+- Basics of Angular.
 
 Build an app with ASPNET Core and Angular from scratch
--
+- Better understanding of how all the different elements fit together by following along a practical example, building a complete application using Entity Framework, ASP.Net and Angular.
 
 Unit Testing for C# Developers
--
-
+- Basics of unit testing with NUnit and Moq. 
+- Understanding the basics of TDD (Test-Driven-Development).
+- Further improved understanding of why you would want to and how to create loosely coupled applications.
