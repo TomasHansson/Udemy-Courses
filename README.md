@@ -58,9 +58,17 @@ Documentation about the various courses I've taken on Udemy and the main things 
 - Basics of Angular.
 
 **Build an app with ASPNET Core and Angular from scratch**
-- Better understanding of how all the different elements fit together by following along a practical example, building a complete application using Entity Framework, ASP.Net and Angular.
+- Better understanding of how all the different elements fit together by following along a practical example, building a complete application using Entity Framework, ASP.NET and Angular.
 
 **Unit Testing for C# Developers**
 - Basics of unit testing with NUnit and Moq. 
 - Understanding the basics of TDD (Test-Driven-Development).
 - Further improved understanding of why you would want to and how to create loosely coupled applications.
+
+**Windows Presentation Foundation Masterclass**
+- Using Static Resources and Styles with WPF.
+- Improved understanding of Data Binding in WPF.
+- Creating Custom Controls in WPF.
+- Basics of the MVVM Pattern.
+- Basics of deploying an application to Microsoft Azure and the Windows Store.
+- Basics of using Unity (Dependency Container) to handle Dependency Injection.
