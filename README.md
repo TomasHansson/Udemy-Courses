@@ -72,3 +72,8 @@ Documentation about the various courses I've taken on Udemy and the main things 
 - Basics of the MVVM Pattern.
 - Basics of deploying an application to Microsoft Azure and the Windows Store.
 - Basics of using Unity (Dependency Container) to handle Dependency Injection.
+
+**Advanced Windows Presentation Foundation (WPF) Course**
+- Creating and using Dependency Properties. 
+- Improved understanding of Control- and Data-templates within WPF.
+- Improved understanding of how to adjust visuals in a WPF application.
