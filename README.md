@@ -77,3 +77,13 @@ Documentation about the various courses I've taken on Udemy and the main things 
 - Creating and using Dependency Properties. 
 - Improved understanding of Control- and Data-templates within WPF.
 - Improved understanding of how to adjust visuals in a WPF application.
+
+**Master ASP.NET MVC Core 2.2**
+- Improved understanding of ASP.NET, Entity Framework and MVC.
+- Basics of Identity.
+- Basics of Tag- and HTML-helpers.
+- Basics of Razor syntax.
+
+**The Complete SQL Bootcamp**
+- Basic SQL syntax.
+- Better understanding of how to work with relational databases.
