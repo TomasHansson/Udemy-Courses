@@ -87,3 +87,9 @@ Documentation about the various courses I've taken on Udemy and the main things 
 **The Complete SQL Bootcamp**
 - Basic SQL syntax.
 - Better understanding of how to work with relational databases.
+
+**Git & GitHub Masterclass**
+- Basics of Git and its various commands.
+- Basics of GitHub and how to use Git & GitHub to collaborate with others.
+- The importance of clarity, following guidelines and adhering to your teams conventions for improved collaboration.
+- Basics of continous integration and continous delivery, CI/CD.
