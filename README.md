@@ -93,3 +93,6 @@ Documentation about the various courses I've taken on Udemy and the main things 
 - Basics of GitHub and how to use Git & GitHub to collaborate with others.
 - The importance of clarity, following guidelines and adhering to your teams conventions for improved collaboration.
 - Basics of continous integration and continous delivery, CI/CD.
+
+**Master .NET and C# Unit Testing with NUnit and Moq**
+- Improved understanding of Unit Testing, in particular using the Moq Framework.
