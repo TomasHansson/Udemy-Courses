@@ -96,3 +96,10 @@ Documentation about the various courses I've taken on Udemy and the main things 
 
 **Master .NET and C# Unit Testing with NUnit and Moq**
 - Improved understanding of Unit Testing, in particular using the Moq Framework.
+
+**Learn Parallel Programming with C# and .NET**
+- Basics of parallel programming with C#, using the TPL.
+- How to create, run and coordinate Tasks.
+- How to ensure that the state of data remains uncorrupted while being used by multiple threads.
+- Improved understanding of the async and await keywords and how they relate to Tasks and continuation.
+
