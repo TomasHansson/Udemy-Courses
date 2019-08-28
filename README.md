@@ -103,3 +103,8 @@ Documentation about the various courses I've taken on Udemy and the main things 
 - How to ensure that the state of data remains uncorrupted while being used by multiple threads.
 - Improved understanding of the async and await keywords and how they relate to Tasks and continuation.
 
+**Mastering LINQ with C# and .NET**
+- Useful static functions from the Enumerable-class, such as Enumerable.Range().
+- Improved understanding and familiarity with LINQ-operators.
+- Better understanding of the IEnumerable- and IQueryable-interface.
+- What an Expression Tree is and how it's used with LINQ.
